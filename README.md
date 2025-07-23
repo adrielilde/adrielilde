@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=adrielilde&show_icons=true)
+
 <!--
 **adrielilde/adrielilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
